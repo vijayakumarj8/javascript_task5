@@ -8,6 +8,6 @@ function findgreatest(a, b, c) {
     }
 }
 
-// Test Cases
-findgreatest(10, 20, 30); // Output: 30 is the greatest number.
+
+findgreatest(10, 20, 30); 
 
